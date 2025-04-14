@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]((https://www.frontendmentor.io/solutions/css-flex-javsscript-html5-svg-pTcwTtA7al)
-- Live Site URL: [Add live site URL here](https://abdelmouizz.github.io/Article-preview-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-flex-javsscript-html5-svg-pTcwTtA7al](
+- Live Site URL: [https://abdelmouizz.github.io/Article-preview-component]
 
 ### Built with
 
