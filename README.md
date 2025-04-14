@@ -6,7 +6,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,12 +20,6 @@ Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - See the social media share links when they click the share icon
-
-
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/css-flex-javsscript-html5-svg-pTcwTtA7al](
-- Live Site URL: [https://abdelmouizz.github.io/Article-preview-component]
 
 ### Built with
 
